@@ -8,7 +8,7 @@ Rancher is an open source container management platform built for organizations 
 ## Stable Release
 
 <!-- stable v2.13.3 DO NOT REMOVE THIS LINE -->
-* v2.13.3 - `rancher/rancher:v2.13.3` / `rancher/rancher:stable` - Read the full release [notes](https://github.com/rancher/rancher/releases/tag/v2.13.3).
+* v2.13.3 - `rancher/rancher:v2.13.3` / `rancher/rancher:stable` - Read the full release [notes](https://github.com/Unity-Billal-mesloub/rancher/releases/tag/v2.13.3).
   
 To get automated notifications of our latest release, you can watch the announcements category in our [forums](http://forums.rancher.com/c/announcements), or subscribe to the RSS feed `https://forums.rancher.com/c/announcements.rss`.
 
@@ -35,9 +35,9 @@ To learn more about using Rancher, please refer to our [Rancher Documentation](h
 
 ## Source Code
 
-This repo is a meta-repo used for packaging and contains the majority of Rancher codebase. For other Rancher projects and modules, [see go.mod](https://github.com/rancher/rancher/blob/release/v2.8/go.mod) for the full list.
+This repo is a meta-repo used for packaging and contains the majority of Rancher codebase. For other Rancher projects and modules, [see go.mod](https://github.com/Unity-Billal-mesloub/rancher/blob/release/v2.8/go.mod) for the full list.
 
-Rancher also includes other open source libraries and projects, [see go.mod](https://github.com/rancher/rancher/blob/release/v2.8/go.mod) for the full list.
+Rancher also includes other open source libraries and projects, [see go.mod](https://github.com/Unity-Billal-mesloub/rancher/blob/release/v2.8/go.mod) for the full list.
 
 ## Build configuration
 
@@ -46,22 +46,6 @@ Refer to the [build docs](docs/build.md) on how to customize the building and pa
 ## Support, Discussion, and Community
 If you need any help with Rancher, please join us at either our [Rancher forums](http://forums.rancher.com/) or [Slack](https://slack.rancher.io/) where most of our team hangs out at.
 
-Please submit any Rancher bugs, issues, and feature requests to [rancher/rancher](https://github.com/rancher/rancher/issues).
+Please submit any Rancher bugs, issues, and feature requests to [rancher/rancher](https://github.com/Unity-Billal-mesloub/rancher/issues).
+For security issues, please first check our [security policy](https://github.com/Unity-Billal-mesloub/rancher/security) and email security-rancher@suse.com instead of posting a public issue in GitHub.  You may (but are not required to) use the GPG key located on [Keybase](https://keybase.io/rancher).
 
-For security issues, please first check our [security policy](https://github.com/rancher/rancher/security) and email security-rancher@suse.com instead of posting a public issue in GitHub.  You may (but are not required to) use the GPG key located on [Keybase](https://keybase.io/rancher).
-
-# License
-
-Copyright (c) 2014-2025 [SUSE](http://rancher.com)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
